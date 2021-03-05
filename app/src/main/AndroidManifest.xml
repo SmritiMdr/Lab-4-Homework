@@ -15,7 +15,7 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=
-                    "com.example.android.hellotoast.MainActivity" />
+                    "com.example.hellotoast.MainActivity" />
         </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
